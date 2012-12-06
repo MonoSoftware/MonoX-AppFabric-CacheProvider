@@ -161,3 +161,8 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+/References/Microsoft.ApplicationServer.Caching.Client.dll
+/References/Microsoft.ApplicationServer.Caching.Core.dll
+/References/Microsoft.WindowsFabric.Common.dll
+/References/Microsoft.WindowsFabric.Data.Common.dll
+/References/Microsoft.WindowsFabric.Data.dll
